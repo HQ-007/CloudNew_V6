@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${default}",
+                "${workspaceFolder}/include/server",
+                "${workspaceFolder}/thirdparty",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/include/server/redis"
+            ],
+            "defines": [],
+            "cppStandard": "c++11",
+            "cStandard": "c11",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
